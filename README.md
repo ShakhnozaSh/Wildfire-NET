@@ -1,5 +1,5 @@
 # WildFire-NET
-Official implementation of "Deep Encoder-Decoder Networks based Wildfire Segmentation and Detection using Drone images in Real-Time".
+Official implementation of "Deep Encoder-Decoder Networks based Wildfire Segmentation using Drone images in Real-Time".
 
 The proposed dataset can be found at the following link:
 
